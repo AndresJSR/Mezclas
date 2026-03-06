@@ -1,1 +1,0 @@
-print("La vida es bella")
