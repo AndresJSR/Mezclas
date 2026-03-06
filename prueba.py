@@ -1,1 +1,1 @@
-print("Estoy aburrido carajo")
+print("La vida es bella")
